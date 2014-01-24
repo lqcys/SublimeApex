@@ -476,3 +476,6 @@ If you have your own shortcut key convention, you should put it here
 11. If you don't want to keep the local history change, you can set keep_local_change_history to false in the settings.
 
 12. If you want to output the session info, you can set output_session_info to true in the settings.
+
+# Test Pull Request
+This is just a test
